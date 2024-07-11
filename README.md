@@ -1,4 +1,4 @@
-![logo](https://cdn.techinasia.com/wp-content/uploads/2018/07/business-code-coding-943096.jpg)
+
 <h1 align="center">Hi 👋, Dipsita this side</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 <img align="right" alt="coding" width="370" height="320" src="https://www.freecodecamp.org/news/content/images/2022/04/altumcode-zE007SNgcdE-unsplash.jpg">
