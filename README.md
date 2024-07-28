@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, Dipsita this side</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+<h3 align="center">A Front End Web Developer</h3>
 <img align="right" alt="coding" width="370" height="320" src="https://www.freecodecamp.org/news/content/images/2022/04/altumcode-zE007SNgcdE-unsplash.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipsitarout&label=Profile%20views&color=0e75b6&style=flat" alt="dipsitarout" /> </p>
 
