@@ -1,0 +1,382 @@
+{
+  "profile": {
+    "name": "DIPSITA ROUT",
+    "class": "FULL-STACK DEVELOPER",
+    "subtitle": "AI / ML ENGINEER",
+    "specialty": "AI / ML",
+    "base": "VIT CHENNAI",
+    "status": "BUILDING",
+    "degree": "B.TECH CSE · AI & ML",
+    "role2": "APP BUILDER",
+    "card_class": "FULL-STACK DEV | APP BUILDER"
+  },
+  "level": 85,
+  "mission": {
+    "items": [
+      "Full-Stack Applications",
+      "AI / ML Systems",
+      "Generative AI",
+      "RAG & Vector Databases",
+      "Multi-Agent Systems"
+    ],
+    "status_pct": 82,
+    "status_label": "ACTIVE",
+    "xp": 4200,
+    "xp_max": 5000
+  },
+  "stats": [
+    {
+      "name": "CODING",
+      "value": 92,
+      "color": "cyan"
+    },
+    {
+      "name": "AI / ML",
+      "value": 84,
+      "color": "purple"
+    },
+    {
+      "name": "SYSTEM DESIGN",
+      "value": 76,
+      "color": "blue"
+    },
+    {
+      "name": "FRONTEND",
+      "value": 82,
+      "color": "green"
+    },
+    {
+      "name": "BACKEND",
+      "value": 90,
+      "color": "cyan"
+    },
+    {
+      "name": "DATABASES",
+      "value": 80,
+      "color": "purple"
+    },
+    {
+      "name": "PROBLEM SOLVING",
+      "value": 88,
+      "color": "green"
+    }
+  ],
+  "attributes": [
+    {
+      "name": "STRENGTH",
+      "value": 80,
+      "color": "cyan"
+    },
+    {
+      "name": "DEXTERITY",
+      "value": 85,
+      "color": "blue"
+    },
+    {
+      "name": "INTELLIGENCE",
+      "value": 90,
+      "color": "purple"
+    },
+    {
+      "name": "CREATIVITY",
+      "value": 86,
+      "color": "green"
+    },
+    {
+      "name": "PROBLEM SOLVING",
+      "value": 88,
+      "color": "cyan"
+    },
+    {
+      "name": "SYSTEM THINKING",
+      "value": 76,
+      "color": "purple"
+    }
+  ],
+  "quest": {
+    "state": "ACTIVE",
+    "title": "Build intelligent full-stack systems combining:",
+    "tags": [
+      "AI",
+      "ML",
+      "GenAI",
+      "RAG",
+      "MULTI-AGENT SYSTEMS"
+    ],
+    "progress": 78,
+    "reward_xp": 500,
+    "reward_text": "NEW SKILL UNLOCKED"
+  },
+  "projects": [
+    {
+      "name": "CLINSIGHT",
+      "status": "ONLINE",
+      "desc": "AI-powered clinical decision system",
+      "tags": [
+        "RAG",
+        "FAISS",
+        "FastAPI",
+        "Gemini"
+      ],
+      "difficulty": 80,
+      "xp": 850,
+      "color": "cyan"
+    },
+    {
+      "name": "DISEASERISK AI",
+      "status": "ONLINE",
+      "desc": "ML-based disease risk prediction",
+      "tags": [
+        "AI / ML"
+      ],
+      "difficulty": 70,
+      "xp": 700,
+      "color": "purple"
+    },
+    {
+      "name": "KRISHIDEEP",
+      "status": "ONLINE",
+      "desc": "AI-driven agriculture intelligence",
+      "tags": [
+        "AI / ML"
+      ],
+      "difficulty": 70,
+      "xp": 700,
+      "color": "green"
+    },
+    {
+      "name": "THREATSHIELD",
+      "status": "ONLINE",
+      "desc": "AI-assisted threat detection",
+      "tags": [
+        "AI / ML"
+      ],
+      "difficulty": 70,
+      "xp": 700,
+      "color": "blue"
+    }
+  ],
+  "achievements": [
+    {
+      "code": "WIN",
+      "title": "Winner",
+      "event": "TechnoVIT 2024 Full Stack Hackathon",
+      "xp": 600,
+      "color": "cyan"
+    },
+    {
+      "code": "DOM",
+      "title": "Domain Winner",
+      "event": "GLITCHCON 2.0 Hackathon",
+      "xp": 500,
+      "color": "purple"
+    },
+    {
+      "code": "2ND",
+      "title": "Ranked 2nd among 100+ teams",
+      "event": "DataQuest 2.0 Hackathon",
+      "xp": 450,
+      "color": "green"
+    },
+    {
+      "code": "SF",
+      "title": "National Semi-Finalist",
+      "event": "Flipkart GRID 7.0",
+      "xp": 500,
+      "color": "blue"
+    },
+    {
+      "code": "ML",
+      "title": "Amazon ML Summer School",
+      "event": "2026",
+      "xp": 400,
+      "color": "cyan"
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2024",
+      "items": [
+        {
+          "t": "Hackathon Era"
+        },
+        {
+          "t": "Full-Stack Development"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "items": [
+        {
+          "t": "Tata Power Internship",
+          "sub": "Central Odisha Distribution Ltd"
+        },
+        {
+          "t": "OCR Spot Billing"
+        }
+      ]
+    },
+    {
+      "year": "2026",
+      "items": [
+        {
+          "t": "Amazon ML Summer School"
+        },
+        {
+          "t": "AI / ML Systems"
+        },
+        {
+          "t": "GenAI / Multi-Agent Systems"
+        }
+      ]
+    }
+  ],
+  "tree": {
+    "root": "DIPSITA",
+    "branches": [
+      {
+        "name": "FRONTEND",
+        "color": "cyan",
+        "skills": [
+          "React",
+          "Next.js",
+          "Tailwind",
+          "Redux"
+        ]
+      },
+      {
+        "name": "BACKEND",
+        "color": "blue",
+        "skills": [
+          "Node.js",
+          "Express",
+          "FastAPI",
+          "PostgreSQL",
+          "MongoDB"
+        ]
+      },
+      {
+        "name": "AI / ML",
+        "color": "purple",
+        "skills": [
+          "Python",
+          "ML",
+          "GenAI",
+          "RAG",
+          "FAISS",
+          "Agents"
+        ]
+      }
+    ]
+  },
+  "side_quests": [
+    [
+      "Hackathons",
+      "BUILD UNDER PRESSURE"
+    ],
+    [
+      "Open Source",
+      "CONTRIBUTE & COLLABORATE"
+    ],
+    [
+      "DSA",
+      "SHARPEN THE FUNDAMENTALS"
+    ],
+    [
+      "System Design",
+      "THINK IN ARCHITECTURES"
+    ],
+    [
+      "Learning new AI frameworks",
+      "STAY AHEAD OF THE CURVE"
+    ],
+    [
+      "Building experimental projects",
+      "PROTOTYPE FAST"
+    ],
+    [
+      "UI/UX experimentation",
+      "CRAFT THE INTERFACE"
+    ]
+  ],
+  "log": [
+    [
+      "2024",
+      "ACHIEVEMENT UNLOCKED",
+      "Winner - TechnoVIT 2024 Full Stack Hackathon",
+      "green"
+    ],
+    [
+      "2025",
+      "INTERNSHIP",
+      "Tata Power Central Odisha Distribution Limited",
+      "cyan"
+    ],
+    [
+      "2025",
+      "PROJECT",
+      "OCR-based Spot Billing / automated meter reading extraction",
+      "cyan"
+    ],
+    [
+      "----",
+      "ACHIEVEMENT UNLOCKED",
+      "Domain Winner - GLITCHCON 2.0 Hackathon",
+      "green"
+    ],
+    [
+      "----",
+      "ACHIEVEMENT UNLOCKED",
+      "2nd among 100+ teams - DataQuest 2.0 Hackathon",
+      "green"
+    ],
+    [
+      "----",
+      "ACHIEVEMENT UNLOCKED",
+      "National Semi-Finalist - Flipkart GRID 7.0",
+      "green"
+    ],
+    [
+      "2026",
+      "ACHIEVEMENT UNLOCKED",
+      "Amazon ML Summer School 2026",
+      "green"
+    ],
+    [
+      "2026",
+      "FOCUS",
+      "AI/ML + GenAI + RAG + Multi-Agent Systems",
+      "purple"
+    ]
+  ],
+  "terminal": {
+    "rows": [
+      [
+        "STATUS",
+        "ONLINE",
+        "green"
+      ],
+      [
+        "MODE",
+        "BUILDING",
+        "cyan"
+      ],
+      [
+        "CURRENT",
+        "AI + FULL-STACK",
+        "cyan"
+      ],
+      [
+        "QUEST",
+        "ACTIVE",
+        "purple"
+      ],
+      [
+        "SYSTEM",
+        "OPERATIONAL",
+        "green"
+      ]
+    ]
+  }
+}
