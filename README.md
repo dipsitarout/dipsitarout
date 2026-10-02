@@ -6,9 +6,9 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PLAYER+VIEWS&color=00f0ff&style=for-the-badge" alt="Profile views">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=b026ff&labelColor=060a14&logo=github&logoColor=white" alt="GitHub followers">
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_FLAGSHIP_REPO?label=STARS&style=for-the-badge&color=39ff88&labelColor=060a14" alt="Stars on flagship repo">
+<img src="https://komarev.com/ghpvc/?username=dipsitarout&label=PLAYER+VIEWS&color=00f0ff&style=for-the-badge" alt="Profile views">
+<img src="https://img.shields.io/github/followers/dipsitarout?label=FOLLOWERS&style=for-the-badge&color=b026ff&labelColor=060a14&logo=github&logoColor=white" alt="GitHub followers">
+<img src="https://img.shields.io/github/stars/dipsitarout/https://github.com/dipsitarout/ClinSight_REPO?label=STARS&style=for-the-badge&color=39ff88&labelColor=060a14" alt="Stars on flagship repo">
 
 </div>
 
@@ -82,9 +82,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg">
-    <img alt="Animated contribution snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dipsitarout/dipsitarout/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dipsitarout/dipsitarout/output/github-snake.svg">
+    <img alt="Animated contribution snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/dipsitarout/dipsitarout/output/github-snake-dark.svg" width="100%">
   </picture>
 </p>
 
@@ -105,10 +105,10 @@
 <h2 align="center">📡 CONNECT</h2>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GITHUB-YOUR_USERNAME-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=060a14" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-2f6bff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060a14" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-SEND_SIGNAL-b026ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060a14" alt="Email"></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-ENTER-39ff88?style=for-the-badge&logo=safari&logoColor=white&labelColor=060a14" alt="Portfolio"></a>
+  <a href="https://github.com/dipsitarout"><img src="https://img.shields.io/badge/GITHUB-dipsitarout-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=060a14" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/dipsita-rout/IN_ID"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-2f6bff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060a14" alt="LinkedIn"></a>
+  <a href="mailto:dipsitarout@gmail.com@example.com"><img src="https://img.shields.io/badge/EMAIL-SEND_SIGNAL-b026ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060a14" alt="Email"></a>
+  <a href="https://https://portfolio-dipsita.vercel.app/FOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-ENTER-39ff88?style=for-the-badge&logo=safari&logoColor=white&labelColor=060a14" alt="Portfolio"></a>
 </p>
 
 <p align="center"><sub>XP, levels, difficulty ratings and stat bars are game-style visuals, not official ratings.</sub></p>
