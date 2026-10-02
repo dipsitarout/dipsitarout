@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="DIPSITA ROUT — Full-Stack App Builder | AI/ML Engineer" width="100%">
+<img src="assets/banner.svg" alt="DIPSITA ROUT — Full-Stack Developer | App Builder | AI/ML Engineer" width="100%">
 
 <img src="assets/boot.svg" alt="Terminal boot sequence: initializing player profile, loading skills, loading quests, system online" width="640">
 
