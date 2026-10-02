@@ -8,7 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=dipsitarout&label=PLAYER+VIEWS&color=00f0ff&style=for-the-badge" alt="Profile views">
 <img src="https://img.shields.io/github/followers/dipsitarout?label=FOLLOWERS&style=for-the-badge&color=b026ff&labelColor=060a14&logo=github&logoColor=white" alt="GitHub followers">
-<img src="https://img.shields.io/github/stars/dipsitarout/https://github.com/dipsitarout/ClinSight_REPO?label=STARS&style=for-the-badge&color=39ff88&labelColor=060a14" alt="Stars on flagship repo">
+<img src="https://img.shields.io/github/stars/dipsitarout/https://https://github.com/dipsitarout/ClinSight?label=STARS&style=for-the-badge&color=39ff88&labelColor=060a14" alt="Stars on flagship repo">
 
 </div>
 
